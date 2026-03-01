@@ -49,7 +49,7 @@ a {
   color: #fff;
 }
 
-main .textBox{
+main .texterBox{
   background-image:
     linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1)),
     url(./assets/bg-dark.svg);
@@ -93,7 +93,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-block: 10px;
+  padding-block: 10px; 
 }
 
 .navbar ul {
@@ -628,5 +628,20 @@ footer .Sector{
   padding-inline: 30px;
 }
 
+.boxerAnimation {
+  border: 1px solid var(--border-color);
+  /* overflow: hidden; */
+  padding: 10px !important;
+  height: 520px;
+}
 
+.boxerAnimation .imgBox img{
+  width: 100% !important;
+  margin-top: 100px;
+
+}
+
+.loremExp{
+  margin-bottom: 20px;
+}
 
