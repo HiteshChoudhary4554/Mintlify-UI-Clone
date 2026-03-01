@@ -29,4 +29,4 @@
   GitHub: https://github.com/hiteshchoudhary4554
 
 ## Output Screenshot
-  ![Project Screenshot](cursor-ui-clone-output-screenshot.png)
+  ![Project Screenshot](mintlify-ui-clone-output-screenshot.png)
